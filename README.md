@@ -18,3 +18,7 @@ Ingested 180k+ rows of Supply Chain data from Azure Data Lake Gen2 into a Medall
 
 ## 💡 Key Business Insight
 Identified that the 'Fan Shop' category generated the highest revenue, allowing for targeted inventory optimization.
+
+## 🛡️ Security
+* Credentials managed via **Databricks Secret Scopes**.
+* Placeholder configurations used for public code safety.
