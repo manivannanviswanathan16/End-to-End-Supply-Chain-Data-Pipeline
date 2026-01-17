@@ -22,3 +22,5 @@ Identified that the 'Fan Shop' category generated the highest revenue, allowing 
 ## 🛡️ Security
 * Credentials managed via **Databricks Secret Scopes**.
 * Placeholder configurations used for public code safety.
+
+* ![Dashboard Preview](dashboard_preview.png)
